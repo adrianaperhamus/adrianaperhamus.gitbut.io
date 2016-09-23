@@ -1,0 +1,14 @@
+header 
+{
+	text-align: center;
+}
+ul 
+{ 
+	list-style-type: none;
+	 }
+
+
+body {
+    background-color: lightpink;
+}
+{text-align: center}
