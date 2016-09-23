@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Adriana Herrera Perhamus</title>
+	<link href=“reset.css” type=“text/css” rel=“stylesheet”>
+	<link href=“style.css” type=“text/css” rel=“stylesheet”>
+</head>
+<body>
+<header>
+	<h1> Adriana Herrera Perhamus </h1>
+		<ul>
+		<li><a href="default.asp">About</a></li>
+		<li><a href="default.asp">Writing</a></li>
+		<li><a href="default.asp">Contact</a></li>
+		</ul>
+		<img src =https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/14063934_1153100204748138_6316009651010734530_n.jpg?oh=d1227d650c147e4014b099bf57147390&oe=5866777C>
+</header>
+			
+			&nbsp;
+				<p>to be replaced with an actual, grown up picture of me when i find a good one</p>
+				&nbsp;
+					<blockquote> *blah blah blah, it's about me, i do things and am in college, etc* </blockquote>
+
+</body>
+</html>
