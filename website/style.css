@@ -1,11 +1,74 @@
-h1 
+header
 {
-	text-align: center;
+  text-align: center
 }
-ul 
-{ 
-	list-style-type: none;
-	 }
+
+header
+{
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+header
+{line-height: 60px; /* 4px +12px + 4px */}
+
+
+h1
+{font-weight: normal;}
+
+a { color: white; }
+
+/* mouse over link */
+a:hover {
+  color: gray;
+}
+
+li {
+  margin: 5px;
+  padding: 5px;
+
+}
+
+h1 {
+  font-size: 30px;
+}
+
+h1 {
+  color: white;
+}
+
+li
+a {
+  text-decoration: none;
+}
+
+li
+{line-height: 60px; /* 4px +12px + 4px */}
+
+img:hover {
+  opacity: 0.5;
+  filter: alpha(opacity=50); /* For IE8 and earlier */
+}
 
 body
 {text-align: center}
+
+body
+{line-height: 30px; /* 4px +12px + 4px */}
+
+body {
+  background-color: black;
+}
+
+body 
+{color: white;}
+
+body
+{
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+
+#navlist li
+{
+  display: inline;
+  list-style-type: none;
+  padding-right: 20px;
+}
