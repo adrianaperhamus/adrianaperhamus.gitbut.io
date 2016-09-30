@@ -10,16 +10,39 @@ header
 header
 {line-height: 20px; /* 4px +12px + 4px */}
 
+h1 {
+  font-size: 30px;
+}
 
-h1
-{font-weight: normal;}
+h1 {
+  color: white;
+}
 
-h1
+h1 {margin: 5px;
+  padding: 5px}
+
+h2 {
+  font-size: 180%;
+}
+
+h2
+{font-size: 30px;}
+
+h2
 {text-align: left}
 
-h1
-{  margin: 20px;
-  padding: 5px;}
+h2
+{  margin: 1px;
+  padding: 0px;}
+
+img {
+  float: left;
+  margin: 0 0 10px 10px;
+}
+
+img {
+  margin-right:10px;
+}
 
 
 a { color: white; }
@@ -35,16 +58,6 @@ li {
 
 }
 
-h1 {
-  font-size: 30px;
-}
-
-h1 {
-  color: white;
-}
-
-h1 {margin: 5px;
-  padding: 5px}
 
 li
 a {
@@ -61,20 +74,13 @@ body
 {  margin: 10px;
   padding: 10px;}
 
-img {
-  float: left;
-  margin: 0 0 10px 310px;
-}
-
-img {
-  margin-right:10px;
-}
 
 body
 {line-height: 40px; /* 4px +12px + 4px */}
 
 body
-{text-align: center}
+{text-align: left}
+
 
 body {
   background-color: black;
