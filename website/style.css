@@ -1,6 +1,6 @@
 header
 {
-  text-align: center
+  text-align: left
 }
 
 header
@@ -8,9 +8,20 @@ header
   font-family: 'Open Sans Condensed', sans-serif;
 }
 header
-{line-height: 60px; /* 4px +12px + 4px */}
+{line-height: 70px; /* 4px +12px + 4px */}
 
+header {
+  margin: 5px;
+  padding: 15px;
 
+}
+
+h1 {
+    border-style: solid;
+    border-bottom: thin solid #ffffff;
+  }
+
+}
 h1
 {font-weight: normal;}
 
@@ -43,6 +54,11 @@ a {
 li
 {line-height: 60px; /* 4px +12px + 4px */}
 
+ul {
+  border-style: solid;
+  border-bottom: thin solid #ffffff;
+}
+
 img:hover {
   opacity: 0.5;
   filter: alpha(opacity=50); /* For IE8 and earlier */
@@ -53,6 +69,7 @@ body
 
 body
 {line-height: 30px; /* 4px +12px + 4px */}
+
 
 body {
   background-color: black;
