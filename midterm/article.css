@@ -1,0 +1,232 @@
+header
+{
+  text-align: center
+}
+
+header
+{
+  font-family: 'Six Caps', sans-serif;
+}
+header
+{line-height: 70px; /* 4px +12px + 4px */}
+
+h1 {
+  font-size: 70px;
+}
+  
+h2
+{ color: black;}
+
+body
+{margin: 25px;
+  padding: 5px;}
+
+header {
+  margin: 0px;
+  padding: 10px;
+
+}
+
+ul {
+  border-style: solid;
+  border-bottom: thin solid #000000;
+}
+
+h6 
+{background-color: black;}
+
+h6
+{font-family: 'PT Sans Narrow', sans-serif;}
+
+h6
+a {color: beige;}
+a {text-decoration: none;}
+
+h6
+{font-size: 40px;}
+
+h6
+{text-align: center;}
+
+h1
+{font-weight: normal;}
+
+h3
+{font-family: 'PT Sans Narrow', sans-serif;}
+
+h3
+{color: black;}
+
+h3
+{line-height: 90%}
+
+h3
+{text-align: left;}
+
+h3
+{
+
+  border-bottom: thin solid #000000;
+}
+
+
+h4
+{font-family: 'Open Sans Condensed', sans-serif;}
+
+h4
+{color: black;}
+
+h7
+{font-size: 30px;}
+
+h7
+{font-family: 'PT Sans Narrow', sans-serif;}
+
+h7
+{color: black;}
+
+h7
+{ line-height: 200%;}
+
+h7 {
+ 
+  border-bottom: thin solid #000000;
+}
+
+p
+{font-family: 'PT Sans Narrow', sans-serif;}
+
+a { color: black; }
+
+div
+{margin-right: 10px;}
+
+/* mouse over link */
+a:hover {
+  color: sandybrown;
+}
+#sidebar
+{ 
+  background-color: transparent; 
+  float:right;  
+  padding: 1px; 
+  width:20%;
+  height:100%; 
+
+}
+
+#sidebar
+a:hover
+{color: beige;}
+
+#sidebar
+{ color: black;
+  border-style: dotted;}
+
+#sidebar
+{line-height: 10%}
+
+#sidebar {
+  display: inline-block;
+  width; 20%
+  height: 100%;
+  margin: 5px;}
+  
+
+#container
+{color:black;}
+
+sidebar
+{border-style: solid;
+  border-width: 0px;}
+
+h5
+{float: right;}
+
+h5
+{color:black;}
+
+h5
+{font-size: 20px;}
+
+
+li
+{
+  text-align: center
+}
+
+li
+{
+  font-size: 30px;
+}
+
+
+li {
+  margin: 0px;
+  padding: 0px;
+
+}
+
+
+h1 {
+  color: black;
+}
+
+li
+a {
+  text-decoration: none;
+}
+
+li
+{line-height: 70px; /* 4px +12px + 4px */}
+
+
+img {
+  float: right;
+  margin: 0 0 10px 10px;
+}
+
+div
+{
+  color: black;
+}
+
+div
+{font-family: 'Roboto Condensed', sans-serif;}
+
+h6
+{margin: 0px;
+  padding:20px;}
+
+h3
+{ margin: 1px;
+  padding: 1px;
+}
+
+
+body {
+  background-color: beige;
+}
+
+
+body 
+{color: beige;}
+
+body
+{
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+
+
+#section
+{line-height: 150%;}
+
+
+
+#navlist li
+{
+  display: inline;
+  list-style-type: none;
+  padding-right: 20px;
+}
