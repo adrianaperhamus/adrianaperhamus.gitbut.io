@@ -68,6 +68,9 @@ h6
 h6
 {text-align: center;}
 
+h6
+{margin: 0px;
+  padding: 0px;}
 h1
 {font-weight: normal;}
 
@@ -87,6 +90,7 @@ h3
 {
 
   border-bottom: thin solid #000000;
+  padding: 10px;
 }
 
 
@@ -99,6 +103,9 @@ header2
 header2
 {float: right;}
 
+header2
+{padding: 20px;}
+
 
 h7
 {font-size: 30px;}
@@ -110,7 +117,7 @@ h7
 {color: black;}
 
 h7
-{ line-height: 200%;}
+{ line-height: 90%;}
 
 h7 {
  
@@ -124,6 +131,9 @@ a { color: black; }
 
 div
 {margin-right: 10px;}
+
+div
+{padding: 20px;}
 
 /* mouse over link */
 a:hover {
