@@ -10,10 +10,6 @@ header
 header
 {line-height: 70px; /* 4px +12px + 4px */}
 
-h1 {
-  font-size: 70px;
-}
-
 
 header {
   margin: 0px;
@@ -21,9 +17,8 @@ header {
 
 }
 
-ul {
-  border-style: solid;
-  border-bottom: thin solid #000000;
+h1 {
+  font-size: 70px;
 }
 
 h1
@@ -36,8 +31,11 @@ a:hover {
   color:sandybrown;
 }
 
-div:hover {
-  color: sandybrown;}
+ul {
+  border-style: solid;
+  border-bottom: thin solid #000000;
+}
+
 
 li
 {
@@ -82,8 +80,17 @@ a {text-decoration: none;}
 h2
 {font-size: 25px;}
 
-body
-{text-align: center}
+h3
+{ margin: 10px;
+  padding: 5px;
+}
+
+h3
+{font-family: 'PT Sans Narrow', sans-serif;}
+
+h3
+{font-size: 20px;}
+
 
 
 #sidebar
@@ -151,19 +158,31 @@ div
 width: 50%;
 }
 
+div:hover {
+  color: sandybrown;}
+
 #center
 {border: 0px;}
 
-h3
-{ margin: 10px;
-  padding: 5px;
-}
+#text
+{float:left;}
 
-h3
-{font-family: 'PT Sans Narrow', sans-serif;}
+#text
+{width: 200px;
+  height: 100px;}
 
-h3
-{font-size: 20px;}
+#text
+{border: 0px;}
+
+h6
+{font-size: 40px;}
+
+h6
+{font-style: oblique;}
+
+p
+{margin: 10px;
+  padding: 10px;}
 
 body {
   background-color: beige;
@@ -181,6 +200,9 @@ body
   font-family: 'Oswald', sans-serif;
 }
 
+
+body
+{text-align: center}
 
 
 #navlist li
