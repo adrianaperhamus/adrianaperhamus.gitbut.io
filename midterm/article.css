@@ -55,7 +55,7 @@ h2
 {background-color: black;}
 
 h2
-{font-family: 'PT Sans Narrow', sans-serif;}
+{font-family: 'Fjalla One', sans-serif;}
 
 h2
 {line-height: 0px;}
@@ -72,7 +72,7 @@ h2
 
 h2
 {margin: 5px;
-  padding: 17px;}
+  padding: 18px;}
 
 h1
 {font-weight: normal;}
@@ -264,3 +264,4 @@ body
   list-style-type: none;
   padding-right: 20px;
 }
+
