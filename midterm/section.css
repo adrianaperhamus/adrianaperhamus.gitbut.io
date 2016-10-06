@@ -131,7 +131,9 @@ div:hover {
   color: sandybrown;}
 
 div
-a:hover {text-decoration: none;}
+{text-decoration: none;}
+
+
 div
 {font-family: 'PT Sans Narrow', sans-serif;}
 
