@@ -27,6 +27,24 @@ header {
 
 }
 
+
+h8
+{color: black;}
+
+h8
+{font-family: 'PT Sans Narrow', sans-serif;}
+
+h8
+{font-size: 20px;}
+
+h8
+{margin: 0px;
+  padding: 0px;}
+
+h8
+{line-height: 150%;}
+
+
 ul {
   border-style: solid;
   border-bottom: thin solid #000000;
@@ -230,3 +248,4 @@ body
   list-style-type: none;
   padding-right: 20px;
 }
+
