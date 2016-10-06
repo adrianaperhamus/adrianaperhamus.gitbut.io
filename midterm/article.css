@@ -44,6 +44,8 @@ h8
 h8
 {line-height: 150%;}
 
+h8
+{font-style: italic;}
 
 ul {
   border-style: solid;
@@ -88,11 +90,15 @@ h3
 }
 
 
-h4
+header2
 {font-family: 'Open Sans Condensed', sans-serif;}
 
-h4
+header2
 {color: black;}
+
+header2
+{float: right;}
+
 
 h7
 {font-size: 30px;}
@@ -133,6 +139,10 @@ a:hover {
 
 }
 
+
+
+
+
 #sidebar
 a:hover
 {color: beige;}
@@ -144,29 +154,29 @@ a:hover
 #sidebar
 {line-height: 10%}
 
-#sidebar {
-  display: inline-block;
-  width; 20%
-  height: 100%;
-  margin: 5px;}
-  
+main2 {
+  display: inline;
+  width; 200%
+  height: 50%;
+  margin: 2px;
+  float: left;
+}
 
-#container
-{color:black;}
+header2
+{display: inline;}
 
-sidebar
-{border-style: solid;
-  border-width: 0px;}
+main
+{display: inline-block;}
 
-h5
-{float: right;}
 
-h5
-{color:black;}
+li2 a {
+  display: block;
+  width: 60px;
+}
 
-h5
-{font-size: 20px;}
-
+li {
+  display: inline;
+}
 
 li
 {
@@ -239,7 +249,6 @@ body
 
 #section
 {line-height: 150%;}
-
 
 
 #navlist li
