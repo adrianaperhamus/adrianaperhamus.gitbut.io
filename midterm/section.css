@@ -8,6 +8,8 @@ header
   font-family: 'Six Caps', sans-serif;
 }
 
+h1
+a {text-decoration: none;}
 header
 {line-height: 70px; /* 4px +12px + 4px */}
 
