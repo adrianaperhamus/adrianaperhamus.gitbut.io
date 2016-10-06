@@ -1,0 +1,92 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>midterm</title>
+    <link href="reset.css" type="text/css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Six+Caps" rel="stylesheet">
+    <link href="section.css" type="text/css" rel="stylesheet">
+  </head>
+  <body>
+    <link href="https://fonts.googleapis.com/css?family=Fjalla+One" rel="stylesheet">
+    <header>
+      <h1>a food newspaper </h1>
+      <div2 id="header">
+        <ul id="navlist">
+          <li><a href="#">New & Upcoming</a></li>
+          <li><a href="#">Reviews</a></li>
+          <li><a href="#">Brunch of the Week</a></li>
+          <li><a href="#">Food Map</a></li>
+        </ul>
+      </div2>
+    </header>
+    <h2>
+      \\ Brunch of the Week //
+
+    </h2>
+    <div id="sidebar">
+      <p><a href="#"></a><img src="http://www.iconsdb.com/icons/preview/black/twitter-xxl.png" alt="twitter" style="width: 25 px; height: 25px;"> </p>
+      <p><a href="#"></a><img   src="http://vectorlogofree.com/wp-content/uploads/2014/05/1172-facebook-logo-with-rounded-corners-icon-vector-icon-vector-eps.png" alt="twitter" style="width: 25 px; height: 25px;"> </p>
+      <p><a href="#"></a><img   src="http://www.iconsdb.com/icons/preview/black/instagram-xxl.png" alt="twitter" style="width: 25 px; height: 25px;"> </p>
+      <p><a href="#"></a><img   src="http://clipartsign.com/upload/2016/03/07/email-icon-clip-art-vector-clip-art-free.png" alt="twitter" style="width: 25 px; height: 25px;"> </p>
+      <p><a href="#"></a><img   src="https://www.youtube.com/yt/brand/media/image/YouTube-icon-dark.png" alt="twitter" style="width: 10 px; height: 15px;"> </p>
+      <p><a href="#"></a><img   src="http://vectorlogofree.com/wp-content/uploads/2014/08/25690-tumblr-logo-icon-vector-icon-vector-eps.png" alt="twitter" style="width: 20 px; height: 20px;"> </p>
+      <p><a href="#"></a><img   src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Magnifying_glass_icon.svg/1024px-Magnifying_glass_icon.svg.png" alt="twitter" style="width: 20px; height: 20px;"> </p>
+    </div>
+   
+  
+<p>
+
+    <div id="article1" style="width: 350px; text-align:center; float: center;">
+      <link href="https://fonts.googleapis.com/css?family=Fjalla+One" rel="stylesheet">
+      <h3>Don't Get Stuck With Regular Pancakes </h3>
+      <img src="https://cdn0.vox-cdn.com/uploads/chorus_image/image/50324701/Brunch.0.0.jpg" alt="rihanna" style="width: 305px; height: 180px;">
+      <p>
+       Brunch luxuriously at these top spots.
+      </p>
+    </div>
+    <div id = "article2" style="width: 350px; text-align:center; float: center;">
+      <link href="https://fonts.googleapis.com/css?family=Fjalla+One" rel="stylesheet">
+      <h3> QUIZ: How Well Do You Know Brunch Etiquette?</h3>
+      <img src="http://www.apartmentbarcelona.com/blog/wp-content/uploads/2014/01/brunch-barcelona.jpg" alt="rihanna" style="width: 305px; height: 180px;">
+      <p>
+    Be sure to take this before going out to this Saturday.
+      </p>
+    </div>
+    <div id = "article3" style="width: 350px; text-align:center; float: center;">
+      <link href="https://fonts.googleapis.com/css?family=Fjalla+One" rel="stylesheet">
+      <h3> Brunching in Every Borough: Top Picks </h3>
+      <img src="http://welcomeintown.com/wp-content/uploads/2015/08/Brunch.jpg" alt="brunch" style="width: 270px; height: 180px;">
+      <p>
+        Our rankings for brunch everywhere.
+      </p>
+    </div>
+    <div id = "article4" style="width: 350px; text-align:center; float: center;">
+      <link href="https://fonts.googleapis.com/css?family=Fjalla+One" rel="stylesheet">
+      <h3> Top Brunch Outfits for Fall  </h3>
+      <img src="http://images-ff.asos-media.com/shmotterstorage/186458/outfit_large_816e5434-dcfe-40e2-9b48-35a24594212f.jpg" alt="outfit" style="width: 270px; height: 180px;">
+      <p>
+       Affordable options to keep you in style at the next event.
+      </p>
+    </div>
+    <div id = "article5" style="width: 350px; text-align:center; float: center;">
+      <link href="https://fonts.googleapis.com/css?family=Fjalla+One" rel="stylesheet">
+      <h3> Brunch with a View </h3>
+      <img src="http://m5.paperblog.com/i/86/863702/out-about-40-kong-serves-up-a-brunch-with-a-v-L-KmbsOc.jpeg" alt="view" style="width: 270px; height: 180px;">
+      <p>
+        How to impress your date, new boss or just your mom.
+      </p>
+    </div>
+    <div id = "article6" style="width: 350px; text-align:center; float: center;">
+      <link href="https://fonts.googleapis.com/css?family=Fjalla+One" rel="stylesheet">
+      <h3> Feeling Bougie? </h3>
+      <img src="http://whatson.ae/dubai/wp-content/uploads/2014/08/Imperium-Brunch.jpg" alt="$$$" style="width: 270px; height: 180px;">
+      <p>
+        Find out how to dine most expensively.
+      </p>
+    </div>
+  
+ 
+  </body>
+</html>
