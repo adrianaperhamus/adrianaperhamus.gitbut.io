@@ -1,103 +1,101 @@
-@media screen and (max-width: 320px;) {body {font-size: 100%}
-}
-
 header
 {
-  text-align: left
+text-align: right;
+line-height: 25px;
+font-family: 'Arapey', serif;
 }
 
-header
-{
-  font-family: 'Arapey', serif;
-}
-header
-{line-height: 4px; /* 4px +12px + 4px */}
 
-h1 {
-  font-size: x-large;
+body { 
+background: url(https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/14572822_1218029504921874_1110227865173804077_n.jpg?oh=f3e6acbc0dae4f906d3a34e7517bbd44&oe=5895F2F2) no-repeat center center fixed; 
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
 }
+
+body {
+background-image: url("https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/14572822_1218029504921874_1110227865173804077_n.jpg?oh=f3e6acbc0dae4f906d3a34e7517bbd44&oe=5895F2F2");
+background-color: #cccccc;
+background-repeat: no-repeat;
+}
+
 
 
 header {
-  margin: 5px;
-  padding: 15px;
+margin: 5px;
+padding: 15px;
 
 }
 
+div {
+float: center;
+margin-left: auto;
+margin-right: auto;
+background-color: white;
+margin: auto;
 }
+
 h1
-{font-weight: normal;}
+{font-weight: normal;
+font-size: 40px;
+color: gray;}
 
-a { color: black; }
+a { color: gray; }
+
 
 /* mouse over link */
 a:hover {
-  color: gray;
+color: white;
+text-decoration: none;}
 }
 
-
-li {
-  margin: 1px;
-  padding: 1px;
-
-}
-
-
-h1 {
-  font-size: 20px;
-}
-
-h1 {
-  color: black;
-}
 
 li
 a {
-  text-decoration: none;
+text-decoration: none;
 }
 
 li
-{color: black;}
+{color:  gray;
+line-height: 30px;
+font-size: 20px;
+float: right;
+margin: 1px;
+padding: 1px;}
 
-li
-{line-height: 40px; /* 4px +12px + 4px */}
 
-
-li
-{font-size: 15px;}
-
-body
-{text-align: center}
 
 body
-{line-height: 10px; /* 4px +12px + 4px */}
+{text-align: center;
+line-height: 20px; 
+background-color: white;
+color: black;
+font-family: 'Arapey', serif;}
 
+div1
+{ float: left;
+min-height: 100%;  /* Fallback for browsers do NOT support vh unit */
+min-height: 100vh; /* These two lines are counted as one :-)       */
 
-body {
-  background-color: white;
+display: flex;
+align-items: center;
+
 }
 
-body 
-{color: black;}
 
-body
-{font-family: 'Arapey', serif;}
-
-img  {
-  position: absolute;
-  left: 60%;
-  top: 20%;
-}
-
-#text
+#navlist li
 {
-  position: absolute;
-  right: 60%;
-  left: 20%;
-  top: 50%;
-  line-height: 1}
+display: inline;
+list-style-type: none;
+padding-right: 20px;
 }
 
-#text
-{padding-left: 40px;
-margin-left; 40px;}
+#list1 li
+{display: inline;
+list-style-type: none;
+padding-left: 10px;
+font-size: 80px;
+line-height: 70px;}
+
+@media screen and (max-width: 600px)
