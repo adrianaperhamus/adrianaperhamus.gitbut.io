@@ -13,28 +13,29 @@
  
   <link rel="stylesheet" type="text/css" href="style.css">
   <script src="script-1.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.0.0-beta1/jquery.min.js"></script>
   <link href="https://fonts.googleapis.com/css?family=Oswald" rel="stylesheet">
   
   
 </head>
 <body>
-  <div class = "container">
-  <div class="row">
-    <div id = "form" class ="col-xs-12 col-mid-6">
-    <h1>Are you old enough to drive in New York Sate? </h1>
- 
-    <form>
-      Age<br>
-      <input type="text" name="age"><br>
-  
-    </form>
-      <button class="btn btn-default" type="submit">Find out!</button>
-
-    </div>
-    </div>
-
-  
+  <div class="container">
+      <div class="row">
+        <div class="col-xs-12 col-mid-6">
+          <div class="form" id="age-form">
+            <h1>Are you old enough to drive in New York Sate? </h1>
+            <form>
+              <h2>
+                Age<br>   
+              </h2>
+              <input type="number" id="age" placeholder="How old are you?">
+              <button id="age-submit">Find out!</button>
+              </form>
+          </div>
+        </div>
+          </div>
   </div>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
+  <script src="js/script.js"></script>
 </body>
 </html>
