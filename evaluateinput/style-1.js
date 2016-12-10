@@ -9,7 +9,7 @@ $("#age-submit").click(function(){
 
   //check if age is greater than 16
   if ( age >= 16 ) {
-    $("#answer").text("Welcome to your car.");
+    $("#age").text("Welcome to your car.");
     $("#car").attr("src", "https://s-media-cache-ak0.pinimg.com/736x/d7/1c/ec/d71cec6f3c59becee51942fc0da7e4f9.jpg");
   }
 
