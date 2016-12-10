@@ -1,0 +1,48 @@
+body {
+  font-family: 'Oswald', sans-serif;
+}
+
+body {
+  background-color: teal;
+}
+
+
+h1 {
+  color: white;
+font-size: 50px;}
+
+body
+{ color: white;}
+
+
+body {
+  font-size: 40px;
+}
+
+
+body { 
+  background: url("https://pbs.twimg.com/media/CvPBOyKUMAAhwn-.jpg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+body {
+  background-image: url("https://pbs.twimg.com/media/CvPBOyKUMAAhwn-.jpg");
+  background-color: #cccccc;
+  background-repeat: no-repeat;
+}
+
+#form {
+
+  height: 100px;
+  position: absolute;
+  top:0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+
+  margin: auto;
+margin-left: 25px;
+}
