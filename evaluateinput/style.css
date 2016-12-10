@@ -11,8 +11,11 @@ h1 {
   color: white;
 font-size: 50px;}
 
+h2
+{color: white;}
+
 body
-{ color: white;}
+{ color: black;}
 
 
 body {
@@ -42,7 +45,9 @@ body {
   bottom: 0;
   left: 0;
   right: 0;
-
   margin: auto;
 margin-left: 25px;
 }
+
+.btn btn-default
+{color: black;}
