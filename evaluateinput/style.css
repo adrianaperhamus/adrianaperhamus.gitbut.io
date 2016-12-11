@@ -37,7 +37,7 @@ body {
   background-repeat: no-repeat;
 }
 
-#form {
+.container {
 
   height: 100px;
   position: absolute;
@@ -48,6 +48,3 @@ body {
   margin: auto;
 margin-left: 25px;
 }
-
-.btn btn-default
-{color: black;}
